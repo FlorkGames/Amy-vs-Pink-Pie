@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "amy alt idle"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "nya comi o gui",
+			"indices": [],
+			"name": "amy idle"
+		},
+		{
+			"offsets": [
+				82,
+				-196
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "amy down"
+		},
+		{
+			"offsets": [
+				14,
+				73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "amy up"
+		},
+		{
+			"offsets": [
+				-51,
+				-108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "amy right"
+		},
+		{
+			"offsets": [
+				124,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "amy left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/amy",
+	"position": [
+		-350,
+		-200
+	],
+	"healthicon": "amy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		135
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

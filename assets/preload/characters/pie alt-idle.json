@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				6,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pinkie alt idle"
+		},
+		{
+			"offsets": [
+				6,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "maconha",
+			"indices": [],
+			"name": "pinkie idle"
+		},
+		{
+			"offsets": [
+				15,
+				-143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pinkie down"
+		},
+		{
+			"offsets": [
+				-54,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pinkie up"
+		},
+		{
+			"offsets": [
+				-93,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pinkie right"
+		},
+		{
+			"offsets": [
+				91,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pinkie left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pie",
+	"position": [
+		-730,
+		-80
+	],
+	"healthicon": "pie",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		128,
+		128
+	],
+	"camera_position": [
+		80,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
