@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="">
+	<SubTexture name="amy alt idle0000" x="512" y="563" width="312" height="644" frameX="0" frameY="-16" frameWidth="316" frameHeight="660"/>
+	<SubTexture name="amy alt idle0001" x="512" y="563" width="312" height="644" frameX="0" frameY="-16" frameWidth="316" frameHeight="660"/>
+	<SubTexture name="amy alt idle0002" x="512" y="563" width="312" height="644" frameX="0" frameY="-16" frameWidth="316" frameHeight="660"/>
+<SubTexture name="amy alt idle0003" x="824" y="563" width="306" height="638" frameX="-5" frameY="-22" frameWidth="316" frameHeight="660"/>
+	<SubTexture name="amy alt idle0004" x="824" y="563" width="306" height="638" frameX="-5" frameY="-22" frameWidth="316" frameHeight="660"/>
+	<SubTexture name="amy alt idle0005" x="824" y="563" width="306" height="638" frameX="-5" frameY="-22" frameWidth="316" frameHeight="660"/>
+<SubTexture name="amy alt idle0006" x="1130" y="563" width="300" height="643" frameX="-11" frameY="-17" frameWidth="316" frameHeight="660"/>
+	<SubTexture name="amy alt idle0007" x="1130" y="563" width="300" height="643" frameX="-11" frameY="-17" frameWidth="316" frameHeight="660"/>
+	<SubTexture name="amy alt idle0008" x="1130" y="563" width="300" height="643" frameX="-11" frameY="-17" frameWidth="316" frameHeight="660"/>
+<SubTexture name="amy alt idle0009" x="1430" y="563" width="309" height="656" frameX="-7" frameY="-4" frameWidth="316" frameHeight="660"/>
+	<SubTexture name="amy alt idle0010" x="1430" y="563" width="309" height="656" frameX="-7" frameY="-4" frameWidth="316" frameHeight="660"/>
+	<SubTexture name="amy alt idle0011" x="1430" y="563" width="309" height="656" frameX="-7" frameY="-4" frameWidth="316" frameHeight="660"/>
+<SubTexture name="amy alt idle0012" x="1739" y="563" width="311" height="660" frameX="-5" frameY="0" frameWidth="316" frameHeight="660"/>
+	<SubTexture name="amy alt idle0013" x="1739" y="563" width="311" height="660" frameX="-5" frameY="0" frameWidth="316" frameHeight="660"/>
+<SubTexture name="amy alt idle0014" x="0" y="1223" width="311" height="660" frameX="-5" frameY="0" frameWidth="316" frameHeight="660"/>
+	<SubTexture name="amy alt idle0015" x="0" y="1223" width="311" height="660" frameX="-5" frameY="0" frameWidth="316" frameHeight="660"/>
+	<SubTexture name="amy alt idle0016" x="0" y="1223" width="311" height="660" frameX="-5" frameY="0" frameWidth="316" frameHeight="660"/>
+	<SubTexture name="amy alt idle0017" x="0" y="1223" width="311" height="660" frameX="-5" frameY="0" frameWidth="316" frameHeight="660"/>
+	<SubTexture name="amy alt idle0018" x="0" y="1223" width="311" height="660" frameX="-5" frameY="0" frameWidth="316" frameHeight="660"/>
+	<SubTexture name="amy alt idle0019" x="0" y="1223" width="311" height="660" frameX="-5" frameY="0" frameWidth="316" frameHeight="660"/>
+	<SubTexture name="amy alt idle0020" x="0" y="1223" width="311" height="660" frameX="-5" frameY="0" frameWidth="316" frameHeight="660"/>
+	<SubTexture name="amy alt idle0021" x="0" y="1223" width="311" height="660" frameX="-5" frameY="0" frameWidth="316" frameHeight="660"/>
+	<SubTexture name="amy alt idle0022" x="0" y="1223" width="311" height="660" frameX="-5" frameY="0" frameWidth="316" frameHeight="660"/>
+<SubTexture name="amy down0000" x="0" y="0" width="513" height="434" frameX="-2" frameY="-8" frameWidth="518" frameHeight="442"/>
+<SubTexture name="amy down0001" x="513" y="0" width="516" height="438" frameX="-1" frameY="-4" frameWidth="518" frameHeight="442"/>
+	<SubTexture name="amy down0002" x="513" y="0" width="516" height="438" frameX="-1" frameY="-4" frameWidth="518" frameHeight="442"/>
+	<SubTexture name="amy down0003" x="1029" y="0" width="518" height="441" frameX="0" frameY="-1" frameWidth="518" frameHeight="442"/>
+	<SubTexture name="amy down0004" x="1029" y="0" width="518" height="441" frameX="0" frameY="-1" frameWidth="518" frameHeight="442"/>
+	<SubTexture name="amy idle0000" x="311" y="1223" width="312" height="644" frameX="0" frameY="-16" frameWidth="316" frameHeight="660"/>
+<SubTexture name="amy idle0001" x="623" y="1223" width="306" height="638" frameX="-5" frameY="-22" frameWidth="316" frameHeight="660"/>
+<SubTexture name="amy idle0002" x="929" y="1223" width="300" height="643" frameX="-11" frameY="-17" frameWidth="316" frameHeight="660"/>
+<SubTexture name="amy idle0003" x="1229" y="1223" width="309" height="656" frameX="-7" frameY="-4" frameWidth="316" frameHeight="660"/>
+<SubTexture name="amy idle0004" x="1538" y="1223" width="309" height="656" frameX="-7" frameY="-4" frameWidth="316" frameHeight="660"/>
+	<SubTexture name="amy left0000" x="1547" y="0" width="522" height="563" frameX="0" frameY="-25" frameWidth="537" frameHeight="588"/>
+	<SubTexture name="amy left0001" x="0" y="563" width="512" height="578" frameX="-19" frameY="-10" frameWidth="537" frameHeight="588"/>
+	<SubTexture name="amy left0002" x="0" y="563" width="512" height="578" frameX="-19" frameY="-10" frameWidth="537" frameHeight="588"/>
+	<SubTexture name="amy right0000" x="2069" y="0" width="485" height="546" frameX="-10" frameY="0" frameWidth="495" frameHeight="546"/>
+	<SubTexture name="amy right0001" x="2069" y="546" width="476" height="542" frameX="-5" frameY="-3" frameWidth="495" frameHeight="546"/>
+	<SubTexture name="amy up0000" x="2050" y="1088" width="423" height="741" frameX="-8" frameY="-2" frameWidth="454" frameHeight="743"/>
+	<SubTexture name="amy up0001" x="1847" y="1829" width="447" height="743" frameX="0" frameY="0" frameWidth="454" frameHeight="743"/>
+	<SubTexture name="amy up0002" x="1847" y="1829" width="447" height="743" frameX="0" frameY="0" frameWidth="454" frameHeight="743"/>
+</TextureAtlas>
